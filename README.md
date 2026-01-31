@@ -33,7 +33,7 @@ Public IP Address
 
 📸 Screenshot: VM overview and architecture
 
-![VM Overview](01-VM- Overview.png.png)
+![VM Overview](01-VM-Overview.png.png)
 
 ⚙️ Environment Configuration
 
