@@ -37,7 +37,7 @@ Public IP Address
 
 ⚙️ Environment Configuration
 
-Region: East US
+Region: South Africa North
 
 VM Size: Standard_B1s
 
