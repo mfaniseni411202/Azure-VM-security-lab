@@ -33,7 +33,7 @@ Public IP Address
 
 📸 Screenshot: VM overview and architecture
 
-![VM Overview](screenshots/01-VM-Overview.png.png)
+![VM Overview](01-VM-Overview.png.png)
 
 ⚙️ Environment Configuration
 
@@ -63,7 +63,7 @@ Connected using administrator credentials
 
 📸 Screenshot: RDP connection settings
 
-![RDP Connection](screenshots/03-RDP-Connect.png.png)
+![RDP Connection](03-RDP-Connect.png.png)
 
 ⚠️ Security Risks Identified
 
@@ -89,7 +89,7 @@ Default Azure access recommendations
 
 📸 Screenshot: NSG inbound rules
 
-![NSG Rules](screenshots/02-NSG-Inbound-Rules.png.png)
+![NSG Rules](02-NSG-Inbound-Rules.png.png)
 
 🧠 Key Learnings
 
